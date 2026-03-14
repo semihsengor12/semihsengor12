@@ -1,16 +1,16 @@
-## Hi there 👋
+# hey, I'm Semih
 
-<!--
-**semihsengor12/semihsengor12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Economics student at Koç University, graduating 2027.
 
-Here are some ideas to get you started:
+Spent most of my time close to the metal:
+Assembly, C, Linux kernel, low-level systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in where math meets real systems.
+Could be financial markets, game mechanics, or hardware.
+Still figuring out which one pulls hardest.
+
+Most of my projects so far have been coursework.
+Working on changing that.
+
+Open to conversations about quant, fintech, or game dev.
+Whichever direction this goes.
